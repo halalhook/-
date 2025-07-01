@@ -1,0 +1,10 @@
+
+3. Updating the footer copyright:
+
+
+```diff
+<<<<<<< SEARCH
+                        &copy; 2023 Halal Hook. Premium services for Muslim businesses.
+=======
+                        &copy; 2024 Halal Hook. All Rights Reserved.
+>>>>>>> REPLACE

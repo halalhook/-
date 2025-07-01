@@ -1,0 +1,20 @@
+
+4. Adding Google Analytics (you'll need to add your actual tracking ID):
+
+
+```diff
+<<<<<<< SEARCH
+    </script>
+</body>
+=======
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YOURTRACKINGID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YOURTRACKINGID');
+    </script>
+</body>
+>>>>>>> REPLACE

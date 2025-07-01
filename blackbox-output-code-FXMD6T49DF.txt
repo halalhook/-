@@ -1,0 +1,11 @@
+<<<<<<< SEARCH
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halal Hook - Ethical Halal Digital Marketing Services</title>
+=======
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halal Hook | Sharia-Compliant Digital Marketing Solutions</title>
+    <meta name="description" content="Halal-certified digital marketing services that align with Islamic business ethics for Muslim entrepreneurs">
+    <link rel="icon" href="https://placehold.co/64x64?text=HH">
+>>>>>>> REPLACE

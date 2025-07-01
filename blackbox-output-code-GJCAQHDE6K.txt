@@ -1,0 +1,8 @@
+
+
+```diff
+<<<<<<< SEARCH
+                                <p class="text-gray-600">Islamabad (Anantnag), Jammu & Kashmir</p>
+=======
+                                <p class="text-gray-600">Islamabad, Anantnag<br>Jammu & Kashmir, India</p>
+>>>>>>> REPLACE
